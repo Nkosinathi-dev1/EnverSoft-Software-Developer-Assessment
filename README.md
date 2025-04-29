@@ -59,9 +59,9 @@ This repository includes the solutions for the Software Developer Interview asse
 
 | What it does | File |
 |--------------|------|
-| Create DB only | [`create_supplier_db.sql`](supplier-portal-server/scripts/create_supplier_db.sql) |
-| Seed data only | [`seed_suppliers.sql`](supplier-portal-server/scripts/seed_suppliers.sql) |
-| Create **and** seed (one-shot) | [`create_supplier_db_and_seed_suppliers.sql`](supplier-portal-server/scripts/create_supplier_db_and_seed_suppliers.sql) |
+| Create DB only | [`create_supplier_db.sql`](https://github.com/Nkosinathi-dev1/supplier-portal-server/blob/master/create_supplier_db.sql) |
+| Seed data only | [`seed_suppliers.sql`](https://github.com/Nkosinathi-dev1/supplier-portal-server/blob/master/seed_suppliers.sql) |
+| Create **and** seed (one-shot) | [`create_supplier_db_and_seed_suppliers.sql`](https://github.com/Nkosinathi-dev1/supplier-portal-server/blob/master/create_supplier_db_and_seed_suppliers.sql) |
 
 ### ▶️ Quick usage
 
