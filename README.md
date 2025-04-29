@@ -43,14 +43,34 @@ This repository includes the solutions for the Software Developer Interview asse
 - Framework: .NET 9 Web API
 - Database: MS SQL Server
 
-### Setup Instructions (Server)
+### 🛠️ Setup Instructions (Server)
 
-1. Navigate to the server project directory.
-2. To create the database, run:
-   ```bash
-   dotnet ef database update
-   ```
-3. Alternatively, run the provided SQL script to manually create and seed the database.
+1. **Navigate** to the `supplier-portal-server` project folder.  
+2. Choose **one** of the two options below:
+
+| Option | Creates DB | Creates table | Seeds data | Command |
+|--------|------------|---------------|------------|---------|
+| **A – EF Core** | ✅ | ✅ (via migrations) | ❌ | `dotnet ef database update` |
+| **B – SQL scripts** | ✅ | ✅ | ✅ | See **Option B** panel |
+
+<details>
+<summary>Option B — Run SQL scripts manually</summary>
+📄 Script files
+
+| What it does | File |
+|--------------|------|
+| Create DB only | [`create_supplier_db.sql`](supplier-portal-server/scripts/create_supplier_db.sql) |
+| Seed data only | [`seed_suppliers.sql`](supplier-portal-server/scripts/seed_suppliers.sql) |
+| Create **and** seed (one-shot) | [`create_supplier_db_and_seed_suppliers.sql`](supplier-portal-server/scripts/create_supplier_db_and_seed_suppliers.sql) |
+
+### ▶️ Quick usage
+
+**All-in-one**
+
+```sql
+:r supplier-portal-server/scripts/create_supplier_db_and_seed_suppliers.sql
+```
+</details>  
 
 > **Note**:  
 > The database consists of only **one table** (`Suppliers`) as required for the proof of concept.
