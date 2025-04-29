@@ -12,7 +12,7 @@ This repository includes the solutions for the Software Developer Interview asse
 
 | Project        | Description |
 |----------------|-------------|
-| [Supplier Portal Client](https://github.com/Nkosinathi-dev1/supplier-portal-client) | Angular frontend for managing suppliers (Mini Project) |
+| [Supplier Portal Client](https://github.com/Nkosinathi-dev1/supplier-portal-client/tree/frontend-poc-setup) | Angular frontend for managing suppliers (Mini Project) |
 | [Supplier Portal Server](https://github.com/Nkosinathi-dev1/supplier-portal-server) | .NET 9 Web API backend for supplier data management (Mini Project) |
 | [Exercise 1](https://github.com/Nkosinathi-dev1/exercise1) | C# Console App comparing two integer lists |
 | [Exercise 2](https://github.com/Nkosinathi-dev1/CsvDataProcessor) | C# CSV Processor that outputs sorted names and addresses |
@@ -23,7 +23,7 @@ This repository includes the solutions for the Software Developer Interview asse
 
 ### Client
 
-- Repository: [Supplier Portal Client](https://github.com/Nkosinathi-dev1/supplier-portal-client)
+- Repository: [Supplier Portal Client](https://github.com/Nkosinathi-dev1/supplier-portal-client/tree/frontend-poc-setup)
 - Framework: Angular 17
 - Development Server:
   - Run `ng serve`
