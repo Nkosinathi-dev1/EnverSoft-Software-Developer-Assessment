@@ -65,13 +65,6 @@ This repository includes the solutions for the Software Developer Interview asse
 | Seed data only | [`seed_suppliers.sql`](https://github.com/Nkosinathi-dev1/supplier-portal-server/blob/master/seed_suppliers.sql) |
 | Create **and** seed (one-shot) | [`create_supplier_db_and_seed_suppliers.sql`](https://github.com/Nkosinathi-dev1/supplier-portal-server/blob/master/create_supplier_db_and_seed_suppliers.sql) |
 
-### ▶️ Quick usage
-
-**All-in-one**
-
-```sql
-:r supplier-portal-server/scripts/create_supplier_db_and_seed_suppliers.sql
-```
 </details>  
 
 > **Note**:  
@@ -120,6 +113,6 @@ This repository includes the solutions for the Software Developer Interview asse
 ## 📬 Contact
 
 > **Developer:** Nkosinathi Ngele  
-> **Email:** nkosinathi.ngele.dev@gmail.com
+> **Email:** nkosinathi.ngele.dev@gmail.com  
 > **Phone:** 073 695 4921
 ---
