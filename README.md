@@ -21,7 +21,9 @@ This repository includes the solutions for the Software Developer Interview asse
 
 ## 🖥️ Mini Project: Supplier Portal
 
-![Supplier Management Portal](https://github.com/user-attachments/assets/f657eab5-2560-4d99-8eea-d2391a0a0739)
+![Enversodt-demo-highquality](https://github.com/user-attachments/assets/0dde53c3-dcf5-43ea-8084-0455da34efee)
+
+
 
 
 
