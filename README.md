@@ -1,4 +1,4 @@
-# EnverSoft Software Developer Assessment
+# Software Developer Assessment
 
 This repository includes the solutions for the Software Developer Interview assessment:
 
