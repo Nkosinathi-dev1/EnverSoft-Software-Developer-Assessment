@@ -1,4 +1,4 @@
-# Software Developer Assessment
+# Software Development
 
 This repository includes the solutions for the Software Developer Interview assessment:
 
