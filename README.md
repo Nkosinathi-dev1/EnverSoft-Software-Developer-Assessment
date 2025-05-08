@@ -1,6 +1,6 @@
 # Software Development
 
-This repository includes the solutions for the Software Developer Interview assessment:
+This repository includes the solutions for the Software Development Project:
 
 - **Mini Project**: Supplier Management Web Application
 - **Exercise 1**: Array Comparison
